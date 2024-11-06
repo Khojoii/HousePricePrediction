@@ -54,8 +54,8 @@
     
 **Team Members**  
 
-    - **Your Name** - Project Lead, UI/UX Developer
-    - **Collaborator 1** - Model Development, Data Pre-processing
-    - **Collaborator 2** - Model Training, Evaluation
+    https://github.com/Khojoii
+    https://github.com/AmirSalajegheh
+    https://github.com/hozzeyn00
    
 
