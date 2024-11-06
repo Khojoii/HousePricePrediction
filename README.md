@@ -1,7 +1,3 @@
-Here’s an improved version of your README for better clarity, consistency, and structure:
-
----
-
 ### Project Overview
 This project aims to build a machine learning model for predicting house prices. It uses various features to train different models and provides accurate predictions, along with model evaluation.
 
