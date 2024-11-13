@@ -9,8 +9,9 @@ This project aims to build a machine learning model for predicting house prices.
 ### Usage
 To run the program, follow these steps:
 
-1. Open a terminal and navigate to the directory containing `Main.py` (e.g., `cd c:\house`).
-2. Run the following command:
+1. extract 'model_RFR.zip' to Desktop
+2. Open a terminal and navigate to the directory containing `Main.py` (e.g., `cd c:\house`).
+3. Run the following command:
    ```bash
    streamlit run filename.py
    ```
